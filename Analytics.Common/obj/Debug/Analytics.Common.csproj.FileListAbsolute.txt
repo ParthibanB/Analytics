@@ -1,5 +1,4 @@
 C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Common\bin\Debug\Common.dll
 C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Common\bin\Debug\Common.pdb
-C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Common\obj\Debug\Analytics.Common.csprojResolveAssemblyReference.cache
 C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Common\obj\Debug\Common.dll
 C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Common\obj\Debug\Common.pdb

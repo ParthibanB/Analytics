@@ -46,10 +46,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommonDal.cs" />
+    <Compile Include="DBHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Analytics.Common\Analytics.Common.csproj">
+      <Project>{a9994b8e-07f7-4d57-9d56-61cf502057c9}</Project>
+      <Name>Analytics.Common %28Analytics.Middleware\Analytics.Common\Analytics.Common%29</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

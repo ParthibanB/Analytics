@@ -26,12 +26,12 @@ namespace DataAccess
                 server.Connect();
                 return server;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 throw new Exception(@"Server is not up and Running");
             }
         }
 
-       public 
+      // public 
     }
 }

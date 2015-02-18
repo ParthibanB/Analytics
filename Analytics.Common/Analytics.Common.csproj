@@ -40,6 +40,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ExtensionMethods\DateTimeExtensions.cs" />
+    <Compile Include="ExtensionMethods\DictionaryExtensions.cs" />
+    <Compile Include="ExtensionMethods\EnumerableExtensions.cs" />
+    <Compile Include="ExtensionMethods\EventLogger.cs" />
+    <Compile Include="ExtensionMethods\NameValueExtension.cs" />
+    <Compile Include="ExtensionMethods\NumericExtensions.cs" />
+    <Compile Include="ExtensionMethods\ObjectExtensions.cs" />
+    <Compile Include="ExtensionMethods\QueryableExtensions.cs" />
+    <Compile Include="ExtensionMethods\StringExtensions.cs" />
+    <Compile Include="ExtensionMethods\TypeExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

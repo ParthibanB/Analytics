@@ -5,11 +5,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analytics.Middleware", "Ana
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analytics.Presentaion.UI", "Analytics.Presentaion.UI", "{630ED7D1-BA4A-4538-A2A1-FE4A72BC4BD4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{33F5A3AE-4396-4BE5-9187-485549ABAAD2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analytics.DataAccess", "Analytics.DataAccess", "{33F5A3AE-4396-4BE5-9187-485549ABAAD2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analytics.DataAccess", "Analytics.DataAccess\Analytics.DataAccess.csproj", "{EC560F6E-9389-4D34-AEE4-7569C650EDBC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{5631674D-174D-41B5-8C4F-4285460DB930}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Analytics.Common", "Analytics.Common", "{5631674D-174D-41B5-8C4F-4285460DB930}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analytics.Common", "Analytics.Common\Analytics.Common.csproj", "{A9994B8E-07F7-4D57-9D56-61CF502057C9}"
 EndProject
