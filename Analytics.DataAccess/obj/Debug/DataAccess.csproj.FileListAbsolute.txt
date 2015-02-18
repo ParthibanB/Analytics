@@ -1,0 +1,9 @@
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\bin\Debug\DataAccess.dll
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\bin\Debug\MongoDB.Bson.dll
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\bin\Debug\MongoDB.Driver.dll
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\bin\Debug\MongoDB.Bson.xml
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\bin\Debug\MongoDB.Driver.xml
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\obj\Debug\DataAccess.dll
+c:\users\parthiban.b\documents\visual studio 2012\Projects\Analytics\DataAccess\obj\Debug\DataAccess.pdb
