@@ -24,3 +24,35 @@ C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.P
 C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Presentation\obj\Debug\Analytics.Presentation.csprojResolveAssemblyReference.cache
 C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Presentation\obj\Debug\Presentation.dll
 C:\Users\parthiban.b\Documents\Visual Studio 2012\Projects\Analytics\Analytics.Presentation\obj\Debug\Presentation.pdb
+D:\Analytics\Analytics\Analytics.Presentation\bin\Presentation.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\Presentation.pdb
+D:\Analytics\Analytics\Analytics.Presentation\bin\Antlr3.Runtime.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\EntityFramework.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\Microsoft.Web.Infrastructure.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\Newtonsoft.Json.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Net.Http.Formatting.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Helpers.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Http.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Http.WebHost.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Mvc.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Optimization.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Providers.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Razor.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.WebPages.Deployment.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.WebPages.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.WebPages.Razor.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\WebGrease.dll
+D:\Analytics\Analytics\Analytics.Presentation\bin\Newtonsoft.Json.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Net.Http.Formatting.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Http.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Http.WebHost.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\EntityFramework.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Helpers.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Mvc.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.Razor.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.WebPages.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.WebPages.Deployment.xml
+D:\Analytics\Analytics\Analytics.Presentation\bin\System.Web.WebPages.Razor.xml
+D:\Analytics\Analytics\Analytics.Presentation\obj\Debug\Analytics.Presentation.csprojResolveAssemblyReference.cache
+D:\Analytics\Analytics\Analytics.Presentation\obj\Debug\Presentation.dll
+D:\Analytics\Analytics\Analytics.Presentation\obj\Debug\Presentation.pdb
